@@ -5,30 +5,32 @@
   "targetWordCount": 80000,
   "dailyTarget": 1000,
   "createdAt": "2026-10-05T05:42:17.791Z",
-  "updatedAt": "2026-10-05T05:42:17.791Z",
+  "updatedAt": "2026-10-05T06:03:05.166Z",
   "binder": [
     {
-      "id": "node-bz0rmk7",
+      "id": "node-89djq5k",
       "type": "scene",
-      "title": "Chapter 1",
-      "path": "E:\\Projects\\Novels\\Proviso22\\Manuscript\\01-chapter.md",
+      "title": "Chapter 1  Barneys Beanery",
+      "path": "E:\\Projects\\Novels\\Proviso22\\Manuscript\\Chapter 1- Barneys Beanery.md",
       "synopsis": "",
       "pov": "",
       "status": "draft",
       "targetWords": 0,
       "collapsed": false,
-      "wordCount": 8
+      "wordCount": 903
     }
   ],
   "chapterMetadata": {
-    "01-chapter.md": {}
+    "01-chapter.md": {},
+    "Chapter 1- Barneys Beanery.md": {}
   },
   "scratchpad": "",
   "tagCategories": [
     "characters",
     "locations",
     "items",
-    "scenes"
+    "scenes",
+    "tasks"
   ],
   "codex": [],
   "snapshots": []

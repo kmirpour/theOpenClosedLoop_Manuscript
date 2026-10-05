@@ -1,3 +1,0 @@
-# Barney’s Beanery
-
-Start writing your story here...
