@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "title": "Manuscript",
+  "author": "Author",
+  "targetWordCount": 80000,
+  "dailyTarget": 1000,
+  "createdAt": "2026-10-05T05:42:17.791Z",
+  "updatedAt": "2026-10-05T05:42:17.791Z",
+  "binder": [
+    {
+      "id": "node-bz0rmk7",
+      "type": "scene",
+      "title": "Chapter 1",
+      "path": "E:\\Projects\\Novels\\Proviso22\\Manuscript\\01-chapter.md",
+      "synopsis": "",
+      "pov": "",
+      "status": "draft",
+      "targetWords": 0,
+      "collapsed": false,
+      "wordCount": 8
+    }
+  ],
+  "chapterMetadata": {
+    "01-chapter.md": {}
+  },
+  "scratchpad": "",
+  "tagCategories": [
+    "characters",
+    "locations",
+    "items",
+    "scenes"
+  ],
+  "codex": [],
+  "snapshots": []
+}
